@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinar Yadav
-- 👀 I’m interested in Web development, App development, and in learning various languages.
+- 👀 I’m interested in Web development, and in learning various languages.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email - shivamyadav766852@gmail.com 
